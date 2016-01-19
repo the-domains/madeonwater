@@ -1,4 +1,8 @@
-name: madeonwater
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,8 +22,8 @@ collections:
 purpose: []
 color:
   saturation: 0
-  brandStrength: 0.8351254
   lightness: 1
+  brandStrength: 0.5215054
   brandColors:
     - '#FCFCFD'
     - '#040303'
@@ -28,13 +32,9 @@ color:
     - '#779AB4'
   rhythmicContrast: 0.188172
 typography_spectrum: 0.6559139
+layout_spectrum: 0.5376344
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-layout_spectrum: 0.5376344
+name: madeonwater
