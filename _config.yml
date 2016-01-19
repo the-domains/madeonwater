@@ -1,7 +1,7 @@
 name: madeonwater
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.01763
+layout_spectrum: 0.23951
+typography_spectrum: 0.03322
 collections:
   - index:
       path: /
