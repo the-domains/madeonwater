@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[madeonwater]]></title>
         <description><![CDATA[madeonwater]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/madeonwater/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 01:14:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 01:21:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/madeonwater/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>1.day: sunrise</p>]]></description>
-            <link>undefinede4e25854-0db5-4981-b591-e5a3ca0022b5/index.html</link>
+            <link>https://thegrid.ai/madeonwater/e4e25854-0db5-4981-b591-e5a3ca0022b5/index.html</link>
             <guid isPermaLink="false">e4e25854-0db5-4981-b591-e5a3ca0022b5</guid>
-            <pubDate>Tue, 19 Jan 2016 01:14:49 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 01:20:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
