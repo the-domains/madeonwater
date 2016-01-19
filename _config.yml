@@ -1,5 +1,8 @@
+name: madeonwater
+favicon: null
+layout_spectrum: 0.5376344
+typography_spectrum: 0.01763
 title: 'made on water & more'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.25
-  rhythmicContrast: 0.188172
   brandColors:
     - '#FCFCFD'
     - '#040303'
     - '#4192D9'
     - '#76BEF2'
     - '#779AB4'
+  brandStrength: 0.25
   lightness: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: madeonwater
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1523297
-layout_spectrum: 0.5376344
+  saturation: 0.5
+  rhythmicContrast: 0.188172
+purpose: []
