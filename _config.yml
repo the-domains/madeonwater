@@ -1,41 +1,41 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: made on water
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-layout_spectrum: 1
-title: made on water
-cta:
-  bucket: null
-  version: null
-  domain: null
 color:
-  saturation: 0.5
+  saturation: 0
   brandStrength: 0.3125
-  rhythmicContrast: 0.188172
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#396cb1'
     - '#7392be'
     - '#4a4f61'
     - '#b2cef1'
-  lightness: 1
-purpose: []
-favicon: null
+  rhythmicContrast: 0.188172
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: madeonwater
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0
+layout_spectrum: 0
