@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[made on water]]></title>
         <description><![CDATA[made on water]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/madeonwater/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 10:51:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 01:46:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/madeonwater/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2. day: island]]></title>
+            <description><![CDATA[<article><h1>2. day: island</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f70ee82-f0d4-41df-9e7f-630927daa1d6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/madeonwater/2-day-island/index.html</link>
+            <guid isPermaLink="false">f738f620-d4a6-482b-9ce0-5289db857527</guid>
+            <pubDate>Fri, 29 Jan 2016 01:45:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[1 day: water]]></title>
-            <description><![CDATA[<article><h1>1 day: water</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6c7397dfba62f628ec54d76bf316931a9e2519b.jpg"></article>]]></description>
-            <link>undefined1-day-water/index.html</link>
+            <description><![CDATA[<article><h1>1 day: water</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec024d63eaafa3ca52ee0654df78080129d643a8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/madeonwater/1-day-water/index.html</link>
             <guid isPermaLink="false">56b6bb15-786d-467f-9323-5bda98185db2</guid>
             <pubDate>Thu, 28 Jan 2016 10:50:54 GMT</pubDate>
         </item>
