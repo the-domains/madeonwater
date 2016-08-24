@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Markus
-    url: 'http://www.madeonwater.com/news/?author=4f3f69b224ac26e7e900b54e'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.madeonwater.com'
-  name: Made on Water
-  favicon: 'http://www.madeonwater.com/favicon.ico'
-  domain: www.madeonwater.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.madeonwater.com/news/2016/1/18/temple-in-bangkok'
+inLanguage: en
 keywords:
   - markus
   - rovinj
@@ -25,17 +20,23 @@ description: >-
   during this trip in Asia. I could spend days wandering around taking photos
   from various angles. Here are some of the shots from Wat Arun and Wat Pho. Two
   of the most famous temples in Bangkok, both along the river Chao Praya.
-inLanguage: en
+datePublished: '2016-08-24T15:18:30.125Z'
+dateModified: '2016-06-30T16:23:30.108Z'
+author:
+  - name: Markus
+    url: 'http://www.madeonwater.com/news/?author=4f3f69b224ac26e7e900b54e'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.madeonwater.com/news/2016/1/18/temple-in-bangkok'
 title: Temples in Bangkok
-datePublished: '2016-06-30T16:23:20.957Z'
-dateModified: '2016-02-12T18:25:53.419Z'
-starred: false
 sourcePath: _posts/2016-06-30-temples-in-bangkok.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Made on Water
+  domain: www.madeonwater.com
+  url: 'http://www.madeonwater.com'
+  favicon: 'http://www.madeonwater.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
