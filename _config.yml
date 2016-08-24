@@ -1,8 +1,30 @@
-name: made on water
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0
-title: made on water
+color:
+  brandColors:
+    - '#7a797e'
+    - '#66676c'
+    - '#8b8481'
+    - '#96928b'
+    - '#7e8f8f'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: made on water
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#7a797e'
-    - '#66676c'
-    - '#8b8481'
-    - '#96928b'
-    - '#7e8f8f'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.75
+title: made on water
+description: more than just a sailing adventure
 purpose: []
