@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    url: 'http://www.madeonwater.com/about/'
+    type: external
 favicon: null
 collections:
   - index:
